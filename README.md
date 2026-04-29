@@ -32,11 +32,11 @@ Honestly just a straightforward project to get comfortable with DOM manipulation
 
 ## How to run it
 
-No setup needed. Seriously.
+No setup needed. 
 
 ```bash
-git clone https://github.com/your-username/simple-interest-calculator.git
-cd simple-interest-calculator
+git clone https://github.com/KhizerAhmad/Interest-Calculator.git
+cd Interest-Calculator
 ```
 
 Then just open `index.html` in your browser. That's it.
@@ -46,7 +46,7 @@ Then just open `index.html` in your browser. That's it.
 ## Project Structure
 
 ```
-simple-interest-calculator/
+Interest-Calculator/
 │
 ├── index.html       # Main HTML file
 ├── style.css        # Styling
@@ -70,12 +70,6 @@ simple-interest-calculator/
 Simple Interest = (Principal × Rate × Years) / 100
 Total Amount = Principal + Simple Interest
 ```
-
----
-
-## Screenshot
-
-> *(Add a screenshot of your app here)*
 
 ---
 
